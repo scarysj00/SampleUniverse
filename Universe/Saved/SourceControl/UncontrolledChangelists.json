@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/UEClass/ClassSample/UniversProject/Universe/Content/UniverseMap.umap"
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/UniverseMap.umap",
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/Resource/8k_earth_clouds.uasset",
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/Resource/8k_earth_daymap.uasset",
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/Resource/8k_earth_nightmap.uasset",
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/Resource/8k_earth_normal_map.uasset",
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/Resource/8k_earth_specular_map.uasset",
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/Resource/8k_moon.uasset",
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/Resource/8k_stars.uasset",
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/Resource/8k_sun.uasset",
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/Blueprint/BP_Sun.uasset",
+				"E:/UEClass/ClassSample/UniversProject/Universe/Content/Material/MT_Sun.uasset"
 			]
 		}
 	]
